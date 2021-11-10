@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/event",
+    "name"       : "immediate-media/hoa-event",
     "description": "The Hoa\\Event library.",
     "type"       : "library",
     "keywords"   : ["library", "event", "listener", "observer"],
@@ -23,8 +23,8 @@
         "source": "https://central.hoa-project.net/Resource/Library/Event"
     },
     "require": {
-        "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0"
+        "immediate-media/hoa-consistency": "~1.0",
+        "immediate-media/hoa-exception"  : "~1.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
